@@ -1,0 +1,17 @@
+body {
+    background-color: grey
+}
+h1 {
+    color: blue;
+
+}
+h2 {
+    color: blueviolet
+}
+h3 {
+    color: gold
+}
+img {
+    max-width: 30%;
+    max-height: 30%;
+}
